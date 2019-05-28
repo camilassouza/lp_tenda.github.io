@@ -1,2 +1,2 @@
-https://lp_tenda.github.io
+lp_tenda.github.io
 landing page tenda
